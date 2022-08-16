@@ -1,0 +1,41 @@
+/* body{
+    /* background-image: url('bc3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+} */
+
+.div1{
+    background-image: url('p3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 60vw;
+
+      /* border: solid red 3px; */
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    font-size: 2vw;
+    margin-top: 50px;
+    font-family:  'Poppins','sans-serif';
+    /* border: solid green 3px; */
+    /* margin-top: 200px; */
+   
+    /* background-color: rgba(0, 0, 0, 0.6);
+     */
+    
+}
+.g{
+    margin-top: 70px;
+} 
+.g span{
+    font-size: 13px;
+    color: red;
+}
+
+/* .div1 {
+    width: 80%;
+   
+} */
